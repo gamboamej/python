@@ -1,2 +1,10 @@
-# python
-Aprende a programar en Python
+### Material Educativo Curso Python con Pythonologo.
+---
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+* Da las gracias públicamente 🤓.
+* etc.
+---
+⌨️ con ❤️ por [gamboamej](https://github.com/gamboamej) 😊
